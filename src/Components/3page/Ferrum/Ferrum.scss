@@ -1,0 +1,334 @@
+.ferrum {
+    margin-top: 51px;
+
+    .container {
+        display: flex;
+        gap: 31px;
+    }
+
+    &__list {
+        margin-top: 0px;
+        margin-left: -40px;
+    }
+
+    &__item {
+        width: 96px;
+        height: 96px;
+        margin-bottom: 35px;
+    }
+
+    &__img1 {
+        width: 744px;
+        height: 654px;
+        object-fit: contain;
+    }
+
+    &__item1 {
+        display: flex;
+        align-items: center;
+        gap: 21px;
+    }
+
+    &__info {
+        margin-left: 52px;
+        margin-top: -10px;
+    }
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 54.47px;
+        color: #383838;
+        padding-bottom: 17px;
+    }
+
+    &__list1 {
+        margin-left: -35px;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #BDBDBD;
+    }
+
+    &__icon {
+        margin-left: 30px;
+    }
+
+    &__span {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #BDBDBD;
+        text-decoration: underline;
+    }
+
+    &__item2 {
+        display: flex;
+        align-items: center;
+        gap: 130px;
+        margin-top: 20px;
+    }
+
+    &__text1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #BDBDBD;
+    }
+
+    &__heading1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #383838;
+    }
+
+    &__item3 {
+        display: flex;
+        align-items: center;
+        gap: 176px;
+        margin-top: 20px;
+    }
+
+    &__textt {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #BDBDBD;
+    }
+
+    &__item4 {
+        display: flex;
+        gap: 92px;
+        margin-top: 21px;
+    }
+
+    &__del {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24.51px;
+        color: #383838;
+        padding-bottom: 7px;
+    }
+
+    &__title {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 38.13px;
+        color: #72BF44;
+    }
+
+    &__btn {
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #FFFFFF;
+        background-color: #72BF44;
+        border-radius: 8px;
+        border:  1px solid #72BF44;
+        padding: 16px 60px;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #FFFFFF;
+            color: #72BF44;
+        }
+    }
+
+    &__like {
+        margin-left: 20px;
+        margin-top: -5px;
+        cursor: pointer;
+    }
+
+    &__btn1 {
+        border: 1px solid #72BF44;
+        border-radius: 8px;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #383838;
+        background-color: #FFFFFF;
+        padding: 16px 59px;
+        margin-top: 20px;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #72BF44;
+            color: #FFFFFF;
+        }
+    }
+
+    &__item5 {
+        display: flex;
+        align-items: center;
+        gap: 84px;
+        margin-top: 20px;
+    }
+
+    &__text2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #383838;
+        width: 139px;
+        margin-top: -70px;
+    }
+
+    &__info1 {
+        margin-top: 37px;
+    }
+
+    &__headline {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.68px;
+        color: #383838;
+        padding-bottom: 14px;
+    }
+
+    &__text3 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.07px;
+        color: #383838;
+        padding-bottom: 11px;
+    }
+
+    &__span1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 19.07px;
+        color: #383838;
+    }
+
+    &__headline1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.68px;
+        color: #383838;
+        padding-bottom: 14px;
+    }
+
+    &__text4 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.07px;
+        color: #383838;
+        width: 474px;
+    }
+
+    &__info2 {
+        margin-top: -15px;
+        margin-left: 86px;
+        border: 1px solid #ECECEC;
+        border-radius: 8px;
+    }
+
+    &__list2 {
+        margin-left: -20px;
+    }
+
+    &__heading2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24.51px;
+        color: #383838;
+        padding-top: 11px;
+        padding-left: 20px;
+    }
+
+    &__title2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #383838;
+        width: 196px;
+        margin-bottom: 15px;
+    }
+
+    &__img2 {
+        margin-right: 19px;
+        margin-bottom: 15px;
+    }
+
+    &__div2 {
+        display: flex;
+        align-items: center;
+        gap: 17px;
+        margin-bottom: 20px;
+    }
+
+    &__headline2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #383838;
+    }
+
+    &__text5 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #E0E0E0;
+    }
+}

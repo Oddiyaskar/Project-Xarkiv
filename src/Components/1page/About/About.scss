@@ -1,0 +1,18 @@
+.about {
+    margin-top: 46px;
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 44px;
+        margin-left: -15px;
+    }
+
+    &__list1 {
+        display: flex;
+        align-items: center;
+        gap: 44px;
+        margin-left: -15px;
+        margin-top: 36px;
+    }
+}

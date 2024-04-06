@@ -1,0 +1,90 @@
+.header {
+    &__info {
+        display: flex;
+        align-items: center;
+        background-color: #F5F5F5;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 17.7px;
+        color: #383838;
+        padding-top: 12px;
+        padding-bottom: 10px;
+    }
+
+    &__icon {
+        margin-left: 1163px;
+    }
+
+    &__text1 {
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans";
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 17.7px;
+        color: #383838;
+        padding-left: 13px;
+    }
+
+    &__icon1 {
+        margin-left: 74px;
+    }
+
+    &__text2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 17.7px;
+        color: #383838;
+        padding-left: 13px;
+    }
+
+    &__div {
+        margin-top: 31px;
+        display: flex;
+        align-items: center;
+    }
+
+    &__btn {
+        margin-left: 87px;
+    }
+
+    &__input {
+        margin-left: 75px;
+        font-family: 'Open Sans';
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20.43px;
+        color: #D1D1D1;
+        padding: 19px 645px 19px 24px;
+        border: none;
+        border-radius: 8px;
+        background: #F5F5F5 url(../Img/1page/Search.svg) no-repeat;
+        background-position: right 20px center;
+    }
+
+    &__select {
+        margin-left: 102px;
+        border: none;
+    }
+
+    &__like {
+        margin-left: 90px;
+    }
+
+    &__shop {
+        margin-left: 71px;
+    }
+
+    &__profile {
+        margin-left: 72px;
+    }
+}

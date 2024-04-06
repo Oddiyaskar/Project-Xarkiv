@@ -1,0 +1,75 @@
+.mebel {
+    margin-top: 50px;
+
+    &__info {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 65.37px;
+        color: #383838;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 24.51px;
+        color: #383838;
+    }
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 77px;
+        margin-left: -35px;
+        margin-top: 32px;
+    }
+
+    &__info1 {
+        display: flex;
+        align-items: center;
+        margin-top: 62px;
+    }
+
+    &__title {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 20px;
+        color: #383838;
+        padding-left: 15px;
+    }
+
+    &__icon {
+        margin-left: 37px;
+    }
+
+    &__btn {
+        border: none;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 16px;
+        color: #FFFFFF;
+        background-color: #72BF44;
+        padding: 12px 25px;
+        border-radius: 8px;
+        margin-left: 1210px;
+    }
+
+    &__icons {
+        margin-left: 51px;
+    }
+}

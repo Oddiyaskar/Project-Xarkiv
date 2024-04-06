@@ -1,0 +1,213 @@
+.tulov {
+    margin-left: 440px;
+    margin-top: -860px;
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 49.03px;
+        color: #383838;
+        padding-bottom: 28px;
+    }
+
+    &__info {
+        display: flex;
+        gap: 221px;
+        margin-bottom: 500px;
+    }
+
+    &__title {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 32.68px;
+        color: #828282;
+        padding-bottom: 30px;
+    }
+
+    &__list {
+        margin-left: -35px;
+        margin-top: 0px;
+    }
+
+    &__item {
+        display: flex;
+        align-items: center;
+        gap: 11px;
+        margin-bottom: 30px;
+    }
+
+    &__link {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #383838;
+    }
+
+    &__btn {
+        margin-left: 10px;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #FFFFFF;
+        border: 1px solid #72BF44;
+        background-color: #72BF44;
+        padding: 16px 67px;
+        border-radius: 8px;
+        cursor: pointer;
+
+        &:hover {
+            color: #72BF44;
+            background-color: #FFFFFF;
+        }
+    }
+
+    &__div1 {
+        background-color: #ECECEC;
+        border-radius: 21px;
+        margin-top: -20px;
+    }
+
+    &__headline {
+        margin: 0;
+        padding: 0;
+        padding-top: 23px;
+        padding-left: 34px;
+        font-family: 'Open Sans';
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 27.24px;
+        color: #39373A;
+        padding-bottom: 20px;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        padding-left: 40px;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 14px;
+        color: #6D6D6D;
+        padding-bottom: 12px;
+    }
+
+    &__text1 {
+        margin: 0;
+        padding: 0;
+        padding-left: 196px;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 14px;
+        color: #6D6D6D;
+        padding-bottom: 12px;
+    }
+
+    &__text2 {
+        margin: 0;
+        padding: 0;
+        padding-left: 160px;
+        font-family: 'Open Sans';
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 14px;
+        color: #6D6D6D;
+        padding-bottom: 12px;
+    }
+
+    &__input {
+        margin-left: 30px;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #39373A;
+        border: 1px solid #ECECEC;
+        border-radius: 16px;
+        background-color: #FFFFFF;
+        padding: 14px 177px 14px 20px;
+        margin-bottom: 26px;
+    }
+
+    &__div3 {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+    }
+
+    &__input1 {
+        border: 1px solid #ECECEC;
+        background-color: #FFFFFF;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #39373A;
+        padding: 14px 104px 14px 20px;
+        border-radius: 16px;
+        margin-left: 34px;
+        margin-bottom: 27px;
+    }
+
+    &__div4 {
+        display: flex;
+        align-items: center; 
+        gap: 25px;
+    }
+
+    &__input2 {
+        border: 1px solid #ECECEC;
+        background-color: #FFFFFF;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #39373A;
+        padding: 14px 36px 14px 20px;
+        border-radius: 16px;
+    }
+
+    &__input3 {
+        border: 1px solid #ECECEC;
+        background-color: #FFFFFF;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #39373A;
+        padding: 14px 27px 14px 20px;
+        border-radius: 16px;
+        margin-right: 34px;
+    }
+
+    &__btn1 {
+        margin-left: 34px;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #FFFFFF;
+        border: 1px solid #72BF44;
+        background-color: #72BF44;
+        padding: 15px 43px;
+        border-radius: 8px;
+        cursor: pointer;
+        margin-bottom: 26px;
+
+        &:hover {
+            color: #72BF44;
+            background-color: #FFFFFF;
+        }
+    }
+}

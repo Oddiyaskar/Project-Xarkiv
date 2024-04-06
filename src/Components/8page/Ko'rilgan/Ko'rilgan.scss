@@ -1,0 +1,62 @@
+.korilgan {
+    margin-left: 440px;
+    margin-top: -860px;
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 49.03px;
+        color: #383838;
+        padding-bottom: 21px;
+    }
+
+    &__img {
+        background-color: #F7F7F7;
+        border-radius: 8px;
+        margin-left: 5px;
+        margin-bottom: 19px;
+    }
+
+    &__title {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 24.51px;
+        color: #383838;
+        padding-left: 5px;
+        padding-bottom: 7px;
+    }
+
+    &__info {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+        margin-left: 5px;
+        margin-bottom: 500px;
+    }
+
+    &__headline {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 27.24px;
+        color: #383838;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24.51px;
+        color: #D2CDCD;
+    }
+}

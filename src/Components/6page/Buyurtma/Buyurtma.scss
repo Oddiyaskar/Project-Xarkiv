@@ -1,0 +1,115 @@
+.buyurtma {
+    margin-left: 440px;
+    margin-top: -870px;
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 49.03px;
+        color: #383838;
+        padding-bottom: 21px;
+    }
+
+    &__info {
+        display: flex;
+        align-items: center;
+        gap: 130px;
+        border: 1px solid #F2F2F2;
+        border-radius: 4px;
+        width: 1239px;
+        margin-bottom: 13px;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #828282;
+        padding-left: 28px;
+    }
+
+    &__line {
+        border: none;
+        height: 29px;
+        width: 1px;
+        background-color: #F2F2F2;
+        margin-left: 0px;
+    }
+
+    &__text1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #828282;
+        padding-right: 48px;
+    }
+
+    &__text2 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #828282;
+        padding-right: 87px;
+    }
+
+    &__info2 {
+        display: flex;
+        align-items: center;
+        gap: 280px;
+        margin-bottom: 21px;
+        cursor: pointer;
+        border-radius: 4px;
+
+        &:hover {
+            background-color: #F2F2F2;
+        }
+    }
+
+    &__text3 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #383838;
+        padding-left: 28px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    &__text4 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.79px;
+        color: #383838;
+    }
+
+    &__info3 {
+        display: flex;
+        align-items: center;
+        gap: 280px;
+        cursor: pointer;
+        border-radius: 4px;
+        margin-bottom: 580px;
+
+        &:hover {
+            background-color: #F2F2F2;
+        }
+    }
+}

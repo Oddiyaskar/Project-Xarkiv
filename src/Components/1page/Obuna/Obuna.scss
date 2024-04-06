@@ -1,0 +1,81 @@
+.obuna {
+    margin-top: 139px;
+    background: #72BF44;
+
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 51px;
+    }
+
+    &__info {
+        margin-left: 75px;
+    }
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 65.37px;
+        color: #FFFFFF;
+        padding-left: 206px;
+        padding-top: 64px;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 32.68px;
+        color: #FFFFFF;
+        padding-left: 206px;
+        padding-bottom: 63px;
+    }
+
+    &__input {
+        font-family: 'Open Sans';
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20.43px;
+        color: #D1D1D1;
+        padding: 18px 394px 17px 25px;
+        border: none;
+        border-radius: 8px;
+        background-color: #FFFFFF;
+    }
+
+    &__btn {
+        border: none;
+        background-color: #383838;
+        border-radius: 8px;
+        font-family: 'Open Sans';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 21.79px;
+        color: #FFFFFF;
+        padding: 17px 38px;
+        margin-left: 23px;
+    }
+
+    &__div {
+        display: flex;
+        align-items: center;
+        margin-top: 14px;
+    }
+
+    &__span {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 17.7px;
+        color: #FFFFFF;
+        padding-left: 10px;
+        padding-top: 3px;
+    }
+}

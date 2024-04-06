@@ -1,0 +1,24 @@
+.bosh {
+    margin-top: 32px;
+    margin-left: -75px;
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 21px;
+    }
+
+    &__link {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #39373A;
+
+        &:hover {
+            color: #72BF44;
+        }
+    }
+}

@@ -1,0 +1,88 @@
+.haqida {
+    margin-top: 32px;
+
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 21px;
+        margin-left: -35px;
+    }
+
+    &__link {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #39373A;
+
+        &:hover {
+            color: #72BF44;
+        }
+    }
+
+    &__heading {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 65.37px;
+        padding-left: 5px;
+        color: #383838;
+        padding-bottom: 32px;
+    }
+
+    &__img {
+        margin-left: 10px;
+    }
+
+    &__info {
+        margin-left: 10px;
+        margin-top: 66px;
+    }
+
+    &__info1 {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    &__info2 {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    &__info3 {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    &__info4 {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    &__heading1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 49.03px;
+        color: #383838;
+    }
+
+    &__text {
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24.51px;
+        color: #383838;
+        margin-top: 21px;
+        width: 836px;
+    }
+}
